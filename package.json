@@ -1,0 +1,17 @@
+{
+  "name": "thanglish-tamil-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation for Thanglish to Tamil transliteration testing",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "show-report": "playwright show-report"
+  },
+  "keywords": ["playwright", "testing", "tamil", "transliteration"],
+  "author": "Student",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
